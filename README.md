@@ -24,7 +24,7 @@ To get started with this project,
 
 To build and run the project, follow these steps:
 
-* Clone the repository: `git clone https://github.com/SunnyDesai67/SecurityAuthrization`
+* Clone the repository: `git clone [https://github.com/SunnyDesai67/SecurityAuthrization]`
 * Navigate to the project directory: cd spring-boot-security-jwt
 * Add database "jwt_security" to postgres 
 * Build the project: mvn clean install
